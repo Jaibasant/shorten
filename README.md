@@ -54,6 +54,7 @@ authentication is required for this basic endpoint.
 
 Screenshots
 Screenshots below are placeholders. Replace with actual images of your app’s UI.
+![Image](https://github.com/user-attachments/assets/5711595a-c163-405f-89cc-bd3c23a455db)
 
 Shorten Home
 Figure: The Shorten app interface (enter a long URL and click “Shorten”).
